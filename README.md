@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.shreshthverma.me](https://www.shreshthverma.me)
 
-- 📫 How to reach me **personal@shreshthverma.me**
+- 📫 You can always reach me at **personal@shreshthverma.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
