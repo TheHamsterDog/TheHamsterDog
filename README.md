@@ -47,6 +47,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehamsterdog&show_icons=true&locale=en&layout=compact" alt="thehamsterdog" />
  
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
  
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehamsterdog&show_icons=true&locale=en" alt="thehamsterdog" /></p>
