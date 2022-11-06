@@ -44,8 +44,11 @@
 &nbsp;&nbsp;
 &nbsp;
 &nbsp;
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehamsterdog&show_icons=true&locale=en&layout=compact" alt="thehamsterdog" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehamsterdog&show_icons=true&locale=en&layout=compact" alt="thehamsterdog" />
+ 
 &nbsp;
+ 
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehamsterdog&show_icons=true&locale=en" alt="thehamsterdog" /></p>
 &nbsp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehamsterdog&" alt="thehamsterdog" /></p>
