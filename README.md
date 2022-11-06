@@ -18,7 +18,7 @@
 <a href="https://twitter.com/vermashreshth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vermashreshth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreshth-verma-17ab39213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreshth-verma-17ab39213" height="30" width="40" /></a>
 <a href="https://instagram.com/shreshthverm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreshthverm" height="30" width="40" /></a>
-<a href="https://discord.gg/hamsterDog#6548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hamsterDog#6548" height="30" width="40" /></a>
+<a href="https://discord.gg/WkKqq39mHw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hamsterDog#6548" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
