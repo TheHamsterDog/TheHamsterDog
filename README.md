@@ -3,8 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thehamsterdog&label=Profile%20views&color=0e75b6&style=flat" alt="thehamsterdog" /> </p>
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thehamsterdog" alt="thehamsterdog" /></a> </p>
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 <p align="left"> <a href="https://twitter.com/vermashreshth" target="blank"><img src="https://img.shields.io/twitter/follow/vermashreshth?logo=twitter&style=for-the-badge" alt="vermashreshth" /></a> </p>
 
 - 🌱 I’m currently learning **Poetry, Three.js, and to cope**
@@ -16,15 +26,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vermashreshth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vermashreshth" height="30" width="40" /></a>
-  &nbsp;
-  
-&nbsp;
+ 
 <a href="https://linkedin.com/in/shreshth-verma-17ab39213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreshth-verma-17ab39213" height="30" width="40" /></a>
 
-&nbsp;
   <a href="https://instagram.com/shreshthverm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreshthverm" height="30" width="40" /></a>
 
-&nbsp;
   <a href="https://discord.gg/WkKqq39mHw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hamsterDog#6548" height="30" width="40" /></a>
 </p>
 
