@@ -26,9 +26,4 @@
 <br>
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thehamsterdog&show_icons=true&locale=en&layout=compact" alt="thehamsterdog" />
-</p>
- <br>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=thehamsterdog&show_icons=true&locale=en" alt="thehamsterdog" /></p>
- <br>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thehamsterdog&" alt="thehamsterdog" /></p>
+
