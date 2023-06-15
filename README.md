@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vermashreshth" target="blank"><img src="https://img.shields.io/twitter/follow/vermashreshth?logo=twitter&style=for-the-badge" alt="vermashreshth" /></a> </p>
 
-- 🌱 I’m currently learning **Poetry, Three.js, and to cope**
+- 🌱 I’m currently learning **Poetry, Three.js, and Asset Management**
 
 - 👨‍💻 All of my projects are available at [https://www.shreshthverma.me](https://www.shreshthverma.me)
 
