@@ -1,4 +1,4 @@
-~SYLYS~
+#SYLYS
 
 Shipping production software since age 12. Nine years of building across three continents. 12+ apps, 3 published NPM modules, a cryptocurrency built from scratch.
 
