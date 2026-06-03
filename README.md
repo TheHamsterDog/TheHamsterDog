@@ -4,7 +4,7 @@ Shipping production software since age 12. Nine years of building across three c
 
 ## Security / Historical Note (Old `.env` files)
 
-Some projects in this prodile are **5+ years old** and may include historical `.env` / config files.
+Some projects in this profile are **5+ years old** and may include historical `.env` / config files.
 
 At the time, these projects were created with the intention of staying private indefinitely. I’m now making them public in 2026, and a few of those old environment files ended up in the history.
 
